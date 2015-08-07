@@ -2,4 +2,7 @@
     <string name="app_name">Parejas</string>
     <string name="JUGAR">Jugar</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_tablero">Tablero</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>

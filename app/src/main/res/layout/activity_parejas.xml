@@ -23,6 +23,8 @@
             android:layout_weight="0.19"
             android:clickable="true"
             android:background="@color/color_primary_dark"
-            android:textColor="@android:color/white" />
+            android:textColor="@android:color/white"
+            android:nestedScrollingEnabled="false"
+            android:onClick="mostrarTablero" />
     </LinearLayout>
 </RelativeLayout>
