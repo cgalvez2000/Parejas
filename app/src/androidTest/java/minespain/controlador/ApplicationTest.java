@@ -1,4 +1,4 @@
-package minespain.parejas;
+package minespain.controlador;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
