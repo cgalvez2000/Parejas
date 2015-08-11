@@ -7,6 +7,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import minespain.R;
+
 
 public class Parejas extends Activity {
     @Override
